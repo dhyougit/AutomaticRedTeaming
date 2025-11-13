@@ -367,10 +367,6 @@ Inspired by research in:
 - Adversarial Machine Learning
 - Red Teaming for AI Systems
 
-## 📞 Support
-
-- GitHub Issues: [Report bugs or request features](https://github.com/yourusername/llm-red-team/issues)
-- Discussions: [Join the community](https://github.com/yourusername/llm-red-team/discussions)
 
 ## 🔗 Related Work
 
